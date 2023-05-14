@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x124a3d7f630745be5732221b06c9630d90711c81",
+  "SCAN_LINK": "https://polygonscan.com/token/0x124a3d7f630745be5732221b06c9630d90711c81",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Red Light Waifu",
+  "SYMBOL": "RLW",
+  "MAX_SUPPLY": 169,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
